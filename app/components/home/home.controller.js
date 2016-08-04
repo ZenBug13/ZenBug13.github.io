@@ -4,15 +4,15 @@ angular.module('myApp', [])
   $scope.experience = [
     {
       name:"Penna Turnpike",
-      image:"assets/img/Penna.jpg"
+      image:"app/assets/img/Penna.jpg"
     },
     {
       name:"BNY Mellon",
-      image:"assets/img/BNYM.jpg"
+      image:"app/assets/img/BNYM.jpg"
     },
     {
       name:"Penn State",
-      image:"assets/img/psu.gif"
+      image:"app/assets/img/psu.gif"
     }
   ];
 });
